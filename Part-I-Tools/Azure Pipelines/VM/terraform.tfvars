@@ -1,2 +1,2 @@
 resourceGroupName = "NoBSDevOps"
-location = "eastus"
+location = "westeurope"
